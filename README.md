@@ -10,4 +10,4 @@
  ✈Telegram: https://t.me/Bob_Ying
 
 ## What am I doing now:
-I'm coding a chat program based on C language and creating QQ bot
+I'm coding a chat program based on C and creating QQ bot

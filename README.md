@@ -1,6 +1,6 @@
 # 👋Hi!
 
-  ![](https://github-readme-stats.vercel.app/api?username=BobYing07&theme=dark)
+  <img align=right src="https://github-readme-stats.vercel.app/api?username=BobYing07&theme=dark">
 
 # 🧑I'm **Bob**
 
@@ -8,25 +8,25 @@
 - 📰 My blog: BobYing07.github.io or blog.beimo2007.top
 - 📫 My mail: yinghanwen2007@gmail.com
 - ✈ My telegram: https://t.me/Bob_Ying 
-## 🚉 **My Coding Tools/Systems**
+# 🚉 **My Coding Tools/Systems**
 
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=fff)
 ![Arch](https://img.shields.io/badge/-Arch-blue?style=flat-square&logo=ArchLinux&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=fff)
 ![Windows10](https://img.shields.io/badge/Windows10-0078d6?style=flat-square&logo=windows&logoColor=fff)
 
-## 🌟 **My Skills**  
+# 🌟 **My Skills**  
 
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 
-## 📕 **I'm learning**
+# 📕 **I'm learning**
 ![C](https://img.shields.io/badge/-C-585858?style=flat-square&logo=C&logoColor=fff)
 
 
 
-## My repos
+# My repos
 <table>
 <th>Name</th>
 <th>Description</th>
@@ -51,7 +51,7 @@
 </table>
 
 
-## My future project
+# My future project
 
 <table>
 <th>Name</th>

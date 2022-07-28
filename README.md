@@ -36,7 +36,7 @@
 
 <tr>
   <td>nonebot-Estus</td>
-  <td>A QQ bot based on nonebot1</td>
+  <td>A QQ bot based on nonebot1 and gocqhttp</td>
   <td>https://github.com/BobYing07/nonebot-Estus</td>
   <td>Python</td>
   <td>Public archieve</td>
@@ -44,10 +44,21 @@
 
 <tr>
   <td>nonebot-Luna</td>
-  <td>A QQ bot based on nonebot2</td>
+  <td>A QQ bot based on nonebot2 and onebot v11</td>
   <td>https://github.com/BobYing07/nonebot-Luna</td>
   <td>Python</td>
   <td>Public</td>
+</tr>
+
+<tr>
+  <td>Algorithms and data structures</td>
+  <td>A study project about algorithms and data structures coded in C</td>
+  <td>https://github.com/BobYing07/Algorithms-and-data-structures</td>
+  <td>C</td>
+  <td>Public</td>
+</tr>
+
+
 </table>
 
 
